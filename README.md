@@ -3,7 +3,7 @@
 Sistem absensi berbasis *Face Recognition* (pengenalan wajah) untuk Mahasiswa, Dosen, dan Admin dengan *Role-Based Access Control* (RBAC).
 
 ## Prasyarat
-Untuk menjalankan proyek ini di perangkat Anda, pastikan Anda telah menginstal:
+Untuk menjalankan proyek ini di perangkat, pastikan untuk menginstal:
 1. **Node.js** (Disarankan versi 18 atau terbaru)
 2. **NPM** (Biasanya sudah sepaket dengan Node.js)
 3. **MySQL Server** (Untuk database)
